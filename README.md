@@ -1,6 +1,6 @@
 [[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=giannavic/Gemelos-Digitales-Leyes-de-crecimiento-exponencial-Victoria20212527)](https://drive.mathworks.com/files/Repositories/MODELO-MATEMATICO-Y-EXPERIMENTACION-INSILICO-DE-LOS-CANCERES-CON-MAYOR-MORTALIDAD-EN-MEXICO)
 
-# MODELO-MATEMATICO-Y-EXPERIMENTACION-INSILICO-DE-LOS-CANCERES-CON-MAYOR-MORTALIDAD-EN-MEXICO
+# MODELO MATEMATICO Y EXPERIMENTACIÓN IN SILICO DE LOS CANCERES CON MAYOR MORTALIDAD EN MEXICO
 Residencia profesional
 
 ## Autor
